@@ -1,0 +1,40 @@
+.conteudo{
+    min-height: 100vh;
+    background: #d8e6fc;
+    padding: 2rem;
+    color: black;
+}
+
+.disp-flex{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border: 1px solid #4b4b55;
+    border-radius: 3px;
+    padding-top: 10px;
+    min-height: 30rem;
+    background: #fffff6;
+    justify-content: center;
+}
+section h2{
+    width: 100%;
+    border-bottom: 3px solid #4b4b55;
+}
+
+footer{
+    height: 28px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+footer h2{
+    margin: 0;
+    padding-right: 1rem;
+    font-size: 16px;
+    color: white;
+}
+
+p a{
+    text-decoration: none;
+    color: #4b4b55;
+}
